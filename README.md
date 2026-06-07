@@ -1,4 +1,6 @@
-## Hi there 👋
+![StronLing profile banner](profile-banner.svg)
+
+## Hi there
 
 <!--
 **StronLing/StronLIng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
